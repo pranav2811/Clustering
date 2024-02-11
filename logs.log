@@ -7885,3 +7885,7 @@ overflow encountered in reduce
 2024-02-12 03:14:42,410:INFO:assign_model() successfully completed......................................
 2024-02-12 03:14:42,410:INFO:SubProcess assign_model() end ==================================
 2024-02-12 03:14:42,410:INFO:Fitting TSNE()
+2024-02-12 03:14:48,156:INFO:Sorting dataframe
+2024-02-12 03:14:48,156:INFO:Rendering Visual
+2024-02-12 03:14:48,230:INFO:Visual Rendered Successfully
+2024-02-12 03:14:48,312:INFO:plot_model() successfully completed......................................
